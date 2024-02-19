@@ -7,6 +7,8 @@
 - git clone ......
 - cd to project directory
 - compoer install
+- php artisan migrate
+- php artisan migrate:fresh --seed
 - npm install
 - npm run dev && php artisan serve
 ### Todo app 
