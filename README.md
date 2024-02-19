@@ -10,3 +10,5 @@
 - npm install
 - npm run dev && php artisan serve
 ### Todo app 
+##### Credit by 
+[freecodecamp](https://www.freecodecamp.org/news/use-react-with-laravel/)
