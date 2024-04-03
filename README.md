@@ -6,7 +6,7 @@
 # Setup
 - git clone ......
 - cd to project directory
-- copy env.example -> .env 
+- copy .env.example -> .env -> connect with your DB
 - compoer install
 - php artisan migrate
 - php artisan migrate:fresh --seed
